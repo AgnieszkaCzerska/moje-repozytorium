@@ -1,3 +1,2 @@
 moje-repozytorium
-# NazwaRepozytorium 
-Test1
+# My first repository
